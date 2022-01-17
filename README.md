@@ -5,6 +5,6 @@
 
 ## Hi 👋,
 I'm Alex Oliveira, I'm a Systems Analyst and Developer 👨‍💻. Bachelor in Information Systems.
-- 🔭 I’m currently working with Flutter. 
+- 🔭 I’m currently working with Flutter and Mobile Development. 
 - 🌱 I’m currently learning programming and technology.
 - 💬 A person who always seeks to evolve as a person and professionally, and that likes to help others.
